@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Task Detector</string>
+    <string name="add_task">Ajouter une tâche</string>
+    <string name="edit_task">Modifier la tâche</string>
+    <string name="title">Titre</string>
+    <string name="description">Description</string>
+    <string name="priority_low">Basse</string>
+    <string name="priority_normal">Normale</string>
+    <string name="priority_high">Haute</string>
+    <string name="save">Enregistrer</string>
+    <string name="cancel">Annuler</string>
+    <string name="set_date">Définir date</string>
+    <string name="clear">Effacer</string>
+    <string name="no_due_date">Pas de date limite</string>
+</resources>
